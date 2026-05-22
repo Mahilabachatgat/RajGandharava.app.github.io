@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Mahila Bachat Gat</string>
+    <string name="title_activity_main">Mahila Bachat Gat</string>
+    <string name="package_name">com.mahilabachatgat.app</string>
+    <string name="custom_url_scheme">com.mahilabachatgat.app</string>
+</resources>
